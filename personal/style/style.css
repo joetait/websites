@@ -1,0 +1,13 @@
+body{
+	background: blue;
+	margin: 20 0 0 10;
+}
+
+#nav{
+	width: 180px;
+}
+	#nav ul{
+		list-style-type: none;
+		padding: 0;
+		margin: 0
+	}
