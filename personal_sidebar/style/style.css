@@ -1,5 +1,4 @@
 body{
-	background: blue;
 	margin: 20px 10px;
 }
 
@@ -21,7 +20,6 @@ body{
 	display: table;
 	height: 90%;
 	overflow: hidden;
-	border: 1px solid green;
 	width: 150px;
 	position: fixed;
 	border-collapse: collapse
@@ -32,33 +30,33 @@ body{
 	vertical-align: middle; 
 	/*width: 10%; */
 	/*	min-height: 50%;*/
-	background-color: orange;
 	padding: 5px;
 	margin: 20px 0px 0px 0px;
+	text-align:center;
 }
 
 #nav ul{
 	list-style-type: none;
 	padding: 0px;
-	margin: 0px
+	margin: 0px;
 }
 
+#nav li{
+	margin-bottom:1em;
+}
 
 .main{
 	left: 180px;
 	float: right;
 	width: 80%;
 	position: absolute;
-	border: 1px solid black;
 }
 
 #content{
 	width: 100%;
-	background-color: gray;
 }
 
 #title{
-	background-color: red;
 	text-align: center;
 	width: 100%;
 }
