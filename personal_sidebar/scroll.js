@@ -1,5 +1,4 @@
 
-$(document).ready( function(){
-	$("div").fadeOut("slow");
-	});
+$(document).ready(function() {
+		alert("Hello world");
 });
