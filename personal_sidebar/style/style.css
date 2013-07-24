@@ -2,6 +2,7 @@ body{
 	margin: 20px 10px;
 }
 
+
 /*container div, to set everything else relative to*/
 .container{
 	/*position: relative;*/
@@ -53,12 +54,14 @@ body{
 }
 
 #content{
-	width: 100%;
+	max-width: 700px;
+	margin: 0 auto;
 }
 
 #title{
 	text-align: center;
 	width: 100%;
+	margin: 0em 0em 3em 0em;
 }
 
 #divider{
