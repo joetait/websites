@@ -64,6 +64,15 @@ body{
 	margin: 0em 0em 3em 0em;
 }
 
+#mininav{
+	text-align:center;
+	margin: 2em 0em;
+}
+
+#mininav a{
+	margin: 0em 1em;
+}
+
 #divider{
 	position: fixed;
 	float: left;
