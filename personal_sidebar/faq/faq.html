@@ -4,9 +4,8 @@
 	<title>Test Page</title> 
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 	<link rel="stylesheet" href="../style/style.css" type="text/css" />
-	<script type="text/javascript" src="./scroll.js"></script>
-        <script src="http://code.jquery.com/jquery-2.0.0.js"></script>
-        <script src="http://code.jquery.com/jquery-migrate-1.1.1.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript" src="../scroll.js"></script>
         <link rel="icon" type="image/png" href="../slug.png" />
 </head>
 <body>
@@ -39,11 +38,24 @@
       <div id="title"><h1>The FAQ of my life</h1></div>
       <div id="content">
         <div id="mininav">
-          <p></p>
+          <p><a href="./faq.html#computer">Computer Things</a></p>
         </div>
-        <h1>Title</h1>
-        <p>first paragraph</p>
-        <p>Second paragraph</p>		
+        <div id="computer">
+          <h1>Computer things</h1>
+          <ul>
+            <li>
+              <p>To get jquery working on a website  one requires a line at the start of the html file to source the jquery libraries from, as follows:
+              </p>
+              <p>
+                <PRE>
+                  <code>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+                  </code>
+                 </PRE>
+              </p>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   </div>
