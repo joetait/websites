@@ -11,7 +11,7 @@ body{
 
 /*a nav bar wrapper, for positiong */
 .navwrapper{
-	width: 12%;
+	width: 180px;
 	position: absolute
 }
 
@@ -55,6 +55,7 @@ body{
 
 #content{
 	max-width: 700px;
+    min-width: 100px;
 	margin: 0 auto;
 }
 
