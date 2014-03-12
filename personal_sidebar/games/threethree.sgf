@@ -1,0 +1,320 @@
+(;GM[1]FF[4]
+CA[UTF-8]
+AP[Quarry:0.2.0]
+SZ[19]
+ST[2]
+PC[The KGS Go Server at http://www.gokgs.com/]
+DT[2014-03-12]
+RU[Japanese]
+KM[6.5]
+TM[1800.0]
+OT[5x30 byo-yomi]
+C[joetait [8k\]: Today I intent to thoroughly examine the basic joseki \
+for 3-3 invasions, looking purely at the local play.]
+;B[pd];W[qc]C[joetait [8k\]: So from this position black can block in \
+two directions, at Q17 or R16
+joetait [8k\]: Obviously the general advice is to block so that your \
+two stones face whichever side you see your territory being made]
+TR[pc][qd]
+;B[qd]C[joetait [8k\]: After this the obvious move for white is Q17. I \
+also want to check how to punish the jump to P17 and the hane at S16]
+(;W[rd]C[joetait [8k\]: The obvious first thing is to block white from \
+escaping.]
+;B[re]C[joetait [8k\]: So from here I think that if white connect then \
+Q18 kills. Even if black doesn't kill he can force white to have a tiny\
+ corner in exchange for thickness and influence.
+joetait [8k\]: If white chooses to play at Q17 then black can respond \
+as normal, but white will have the weakness at S17
+joetait [8k\]: if white fixes this then black can fix her weakness at \
+R15, and then we will be in the normal joseki position.]
+;W[rc]C[joetait [8k\]: if white connects black can extend down, since \
+if white tries to cut black can ladder of extend]
+(;B[pc];W[pb]C[joetait [8k\]: White tries to make space]
+;B[ob]C[joetait [8k\]: black blocks]
+(;W[qb]C[joetait [8k\]: if white connects then this is a life and death\
+ problem]
+;B[ra]
+(;W[sb];B[sd];W[pa]C[joetait [8k\]: clearly dead])
+(;W[qa];B[sb];W[rb];B[sa]C[joetait [8k\]: dead]))
+(;W[qa]C[joetait [8k\]: if white makes a tigers mouth we try and kill]
+(;B[rb];W[sb];B[ra];W[sd];B[oa];W[qb]C[joetait [8k\]: This way white \
+lives]
+)
+(;B[sb];W[rb];B[sd];W[sc]C[joetait [8k\]: This way white lives - we \
+cannot prevent white connecting at both S19 and Q19]
+)))
+(;B[pb]C[joetait [8k\]: This seems to kill white outright. I cannot see\
+ any way of playing by white that doesn't reduce to the same dead shape\
+ the line of play given gives]
+;W[pc];B[oc];W[qb];B[ob]
+(;W[ra];B[sb]C[joetait [8k\]: This way white dies])
+(;W[sb];B[ra]C[joetait [8k\]: white dies here - either black can play \
+at T16 and prevent a second eye or play at R19 and connect out]
+)))
+(;W[oc]C[joetait [8k\]: what if white tries to jump here]
+;B[pc]C[joetait [8k\]: black obviously cuts];W[pb]C[joetait [8k\]: if \
+white tries to connect then black can atari]
+;B[qb]
+(;W[rc]C[joetait [8k\]: and if white extends, black can kill the Q18 \
+stone, and will have cut white in two.]
+;B[ob]C[joetait [8k\]: in particular, the corner is looking very \
+unhealthy for white]
+(;W[rd];B[re];W[rb];B[pa];W[ra]C[joetait [8k\]: dead])
+(;W[re];B[rd];W[sd];B[rb];W[sc];B[sb];W[se];B[qf]C[joetait [8k\]: to \
+run like this is awful for white]
+))
+(;W[ob]C[joetait [8k\]: if white connects here then black takes, the \
+corner invasion has failed and white has a floating group]
+;B[rc];W[lc];B[pg]C[joetait [8k\]: this is clearly better for black - a\
+ line higher and the corner, as well as guaranteed eyes]
+))
+(;W[pc]C[joetait [8k\]: so this is the normal response
+joetait [8k\]: So apparently black has two choices here, A and B
+joetait [8k\]: A is certainly the most common, and the only that I have\
+ played I think]
+LB[nc:B][oc:A]
+(;B[nc]C[joetait [8k\]: B is used to stop white coming along the top, \
+and also to take sente (or so I am told - I will see how this works out)]
+(;W[oc]C[joetait [8k\]: despite being the obvious move, this is bad for\
+ white, the correct response being at A]
+LB[nd:A]
+(;B[nd];W[od]C[joetait [8k\]: white can obviously try to poke  out]
+;B[oe]C[joetait [8k\]: and will be capped by black];W[pe]
+C[joetait [8k\]: if white tries to cut then...];B[rd]C[joetait [8k\]: \
+black can extend
+joetait [8k\]: White has to keep attacking otherwise black will bend at\
+ the triangle and threaten to kill the large white group
+joetait [8k\]: To attack, white can atari at A, try to escape at B or \
+maybe try to put pressure on the black group at S16 by playing at S17]
+LB[nb:B][rc:C][ne:A]
+(;W[rc]C[joetait [8k\]: if white plays here then black can try to take \
+away eye space at P18]
+;B[ob]C[joetait [8k\]: As shown in the variations, white can kill the \
+marked group if black plays like this
+joetait [8k\]: Instead, black should kill 1]
+TR[pd:rd]
+LB[pe:1]
+(;W[pb];B[nb];W[ra];B[sb];W[sc];B[rb];W[qb];B[pa];W[sd];B[re]
+C[joetait [8k\]: this way white ends up dead])
+(;W[sd])
+(;W[qe];B[re];W[rf];B[qf];W[pf];B[qg];W[rg];B[of];W[pg];B[qh]
+(;W[og])
+(;W[se]C[joetait [8k\]: This way white escapes, so black has to respond\
+ to white extending at S17]
+)))
+(;W[nb];B[mb]
+(;W[mc];B[md]C[joetait [8k\]: this prevents the double atari at O15]
+;W[lc];B[ob];W[pb];B[na];W[rc];B[sc]C[joetait [8k\]: obviously bad for \
+white]
+)
+(;W[oa]C[joetait [8k\]: this way black has a choice, to connect at O15 \
+or N17 or a tigers mouth at M17
+joetait [8k\]: Because of this choice, white will normally play the \
+atari at O15 first.]
+(;B[lc];W[rc]C[joetait [8k\]: white lives
+joetait [8k\]: though black has defects])
+(;B[ne];W[rc]C[joetait [8k\]: white lives])
+(;B[mc]C[joetait [8k\]: again, black has defects])))
+(;W[ne]C[joetait [8k\]: the atari is normally played first, as it is \
+forcing]
+;B[of]C[joetait [8k\]: clearly black must do this. 
+joetait [8k\]: Note that this also strengthens the marked stones]
+TR[pd:rd]
+;W[nb];B[mb]
+(;W[oa];B[lc]C[joetait [8k\]: this makes extra space for white]
+;W[rc]
+(;B[pf]C[joetait [8k\]: black must finish like this, see variation
+joetait [8k\]: This ends the sequence
+joetait [8k\]: This result is not sente, but does have a lot of outside\
+ influence, and is the reason that white P17 is not recommended]
+)
+(;B[dd]C[joetait [8k\]: white should play at A, I think]LB[re:A]
+(;W[qe]C[joetait [8k\]: this is not correct];B[re];W[qf]
+;B[rf];W[qg];B[rg];W[rh];B[qh];W[pg];B[ri];W[ng];B[nf]C[joetait [8k\]: \
+very messy
+joetait [8k\]: but not ideal for white]
+)
+(;W[re]
+(;B[sd];W[qe]C[joetait [8k\]: clearly if white connects black is dead])
+(;B[qe]C[joetait [8k\]: black is forced to play here];W[pf]
+(;B[rf];W[qf];B[se];W[rg];B[qg];W[pg];B[qh];W[sc];B[rh];W[sd]
+;B[re]C[joetait [8k\]: black dies
+joetait [8k\]: also the marked stones look vulnerable]TR[oe:of]
+)
+(;B[qf]C[joetait [8k\]: black must extend again, see variation]
+;W[pg]C[joetait [8k\]: now the two marked stones look wear
+joetait [8k\]: *weak]TR[oe:of]
+(;B[nf];W[qg]
+(;B[rf])
+(;B[rg];W[rh];B[rf];W[qh]C[joetait [8k\]: clearly black dies this way])
+)
+(;B[qg];W[og]C[joetait [8k\]: if black continues to extend this attack \
+occurs]
+;B[nf];W[qh];B[rh]
+(;W[ri])
+(;W[qi];B[ri]C[joetait [8k\]: white can hane down on black, and more \
+over black still has to worry about white connecting at A
+joetait [8k\]: Even if black lives, it should be clear that this is \
+very bad]
+LB[sd:A])))))))
+(;W[lc])))
+(;B[od]C[joetait [8k\]: If black blocks here white can just hane \
+underneath, and we get the same situation as if black blocked at P17, \
+but with one extra point for white and one less for black]
+;W[nb];B[mc];W[mb];B[lc];W[rd];B[re];W[rc];B[qf]C[joetait [8k\]: The \
+only advantage is that black is a little more solid, but black is solid\
+ anyway]
+))
+(;W[od]C[joetait [8k\]: What if white tries to cut];B[oc]
+C[joetait [8k\]: black cuts too
+joetait [8k\]: whites stone is now obviously vulnerable]
+(;W[oe];B[rc]C[joetait [8k\]: but if white tries to help the lone \
+stone, black comes down and attacks severely]
+;W[rb];B[rd];W[ob];B[nb];W[pb];B[qa];W[sb];B[ra];W[pa];B[na]
+C[joetait [8k\]: white is dead])
+(;W[rd]C[joetait [8k\]: if white doesn't care for the stone, then this \
+can happen.
+joetait [8k\]: To me this doesn't look so good for black
+joetait [8k\]: my guess would be that black should threaten to take]
+;B[oe];W[qe];B[pe]C[joetait [8k\]: if this happens then white has many \
+cutting points, is vulnerable to have the corner reduced, and black has\
+ a solid, thick shape.
+joetait [8k\]: The only downside would be that black may have to depend\
+ on a ladder
+joetait [8k\]: *ladder]
+))
+(;W[rd]C[joetait [8k\]: If this, just block and then carry on as \
+otherwise]
+)
+(;W[nb]C[joetait [8k\]: This is the recommended move
+joetait [8k\]: Apparently black can tenuki from here, though it does \
+leave him vulnerable to N17
+joetait [8k\]: The idea, as I understand it, behind this, is to play on\
+ the right side and secure territory quickly
+joetait [8k\]: If black wants to take the top, she should hane]
+(;B[mb];W[ob]C[joetait [8k\]: white should stop the atari]
+;B[mc]C[joetait [8k\]: black connects];W[rd]C[joetait [8k\]: white \
+makes more space]
+;B[re];W[rc];B[qf]C[joetait [8k\]: and we finish here
+joetait [8k\]: If white plays at P17 then black must respond.
+joetait [8k\]: I don't think that white needs to worry if black plays \
+there though]
+)
+(;B[pp]
+(;W[mc]C[joetait [8k\]: if black tenukis white can play here]
+;B[nd]C[joetait [8k\]: black can the extend up, giving a similar shape \
+to when white plays P17]
+;W[lb]C[joetait [8k\]: finally, white makes some shape
+joetait [8k\]: clearly black cannot cut at P17])
+(;W[oc]C[joetait [8k\]: to me this seems initially acceptable]
+;B[od]C[joetait [8k\]: black must block here]
+(;W[mc]C[joetait [8k\]: if white ataris here it ends as per the \
+recommended line of play, but with no aji for black]
+;B[nd];W[lb]C[joetait [8k\]: white could play M17 here,I guess])
+(;W[nd]C[joetait [8k\]: if white plays here this is not so good]
+;B[mc]C[joetait [8k\]: now white has two groups to worry about]
+;W[md];B[lc];W[ob]C[joetait [8k\]: now black can try to attack the \
+marked stones]
+TR[md:nd]
+(;B[lf])
+(;B[le]))))))
+(;B[oc]C[joetait [8k\]: this is the standard move
+joetait [8k\]: White cannot reasonably try to cut, since then black \
+will extend, leaving white with two weak groups]
+(;W[od];B[nc];W[rd];B[re];W[qe];B[pe];W[qf];B[rc]C[joetait [8k\]: BAD])
+(;W[ob]C[joetait [8k\]: white plays here, to which black must respond \
+else she will be ataried
+joetait [8k\]: black does have three responses here though, 1,2 and 3
+joetait [8k\]: 1 is the most common]
+LB[nb:2][pb:3][nc:1]
+(;B[nc];W[nb]C[joetait [8k\]: white extends again
+joetait [8k\]: this helps stop the attack/forcing move of O18 by black,\
+ and still threatens to come up at N17]
+;B[mc]C[joetait [8k\]: black blocks again, and at this point, if white \
+keeps pushing, he is just helping black, since the influence black \
+gains is much greater than the second line territory]
+;W[rd]C[joetait [8k\]: so white plays here to make space]
+;B[re]C[joetait [8k\]: black blocks];W[rc];B[qf]C[joetait [8k\]: white \
+and black both solidify
+joetait [8k\]: I think this is clearly alive, and will leave it here \
+for this variation]
+)
+(;B[nb]C[joetait [8k\]: this in turn has three responses, all of which \
+seem clearly possible to me
+joetait [8k\]: A lets white get out to the top
+joetait [8k\]: B gives white the corner, and possibly a trick play, as \
+in the variation
+joetait [8k\]: C gives white access to the right hand side
+joetait [8k\]: C does have some more complicated variations though]
+LB[nc:A][od:B][rd:C]
+(;W[nc]
+(;B[od]C[joetait [8k\]: black obviously connects];W[mb]C[joetait [8k\]:\
+ white then ataris
+joetait [8k\]: black now has choice - the corner, or thickness towards \
+the right side]
+(;B[nd]C[joetait [8k\]: this gives thickness]
+(;W[na]C[joetait [8k\]: white takes];B[mc];W[nb];B[lc]C[joetait [8k\]: \
+these moves are fairly self explanatory]
+)
+(;W[mc]C[joetait [8k\]: why not connect here?];B[pb]C[joetait [8k\]: \
+this weakness is then an issue]
+(;W[qb];B[oa]C[joetait [8k\]: white now must be careful
+joetait [8k\]: in fact, white is split in to two weak groups, and this \
+is a disaster]
+)
+(;W[na]C[joetait [8k\]: if white takes];B[qb]C[joetait [8k\]: black \
+comes down]
+;W[rc];B[rb];W[rd];B[re]C[joetait [8k\]: and the corner is lost])))
+(;B[pb]C[joetait [8k\]: playing here gains the corner];W[na]
+;B[qb];W[rc];B[rb];W[rd];B[re]C[joetait [8k\]: and white is dead]))
+(;B[pb]C[joetait [8k\]: playing here gains the corner]))
+(;W[od];B[nc]C[joetait [8k\]: this connection is clearly necessary]
+;W[rd]C[joetait [8k\]: white can then attack];B[re]C[joetait [8k\]: the\
+ hane counter attacks]
+;W[rb];B[sd]C[joetait [8k\]: black continues to encroach
+joetait [8k\]: *encroach];W[rc]
+(;B[qf]C[joetait [8k\]: black then connects];W[pb]C[joetait [8k\]: as \
+does white]
+;B[oe]C[joetait [8k\]: and black makes sure of her thickness])
+(;B[pb]C[joetait [8k\]: if black attacks here this is bad]
+;W[qe]C[joetait [8k\]: white forces];B[pe];W[qf]C[joetait [8k\]: and \
+the white must extend]
+;B[rf];W[pf]C[joetait [8k\]: the extension and atari are obvious]
+;B[oe];W[rg]C[joetait [8k\]: and now white lives and has invaded the \
+right hand side]
+))
+(;W[rd]C[joetait [8k\]: white can threaten here immediately]
+;B[re]C[joetait [8k\]: black blocks];W[qe]C[joetait [8k\]: white cuts]
+(;B[od]C[joetait [8k\]: this is the easiest to play];W[rf]
+C[joetait [8k\]: white gets out to the right hand side];B[rc]
+;W[se];B[rb]C[joetait [8k\]: but black gets the corner])
+(;B[pe]C[joetait [8k\]: sometimes this is playable, but I am not sure \
+when, so I will not go in to this]
+)))
+(;B[pb]C[joetait [8k\]: this depends on black having a ladder, which \
+will appear when white plays at O18 and then P16
+joetait [8k\]: assuming black has the ladder, white must play at R18
+joetait [8k\]: if white does have the ladder then]
+(;W[qb]C[joetait [8k\]: black then ataris];B[nb];W[pa]C[joetait [8k\]: \
+and of course white takes]
+(;B[nc]C[joetait [8k\]: black must connect, see variation
+joetait [8k\]: at this point both groups can be left
+joetait [8k\]: Note that this is sente for black])
+(;B[rd];W[nc];B[od];W[mb]C[joetait [8k\]: white is out]))
+(;W[nb]C[joetait [8k\]: with the ladder white can play here
+joetait [8k\]: if white doesn't have the ladder he can't take A
+joetait [8k\]: Then black can play B, and take the corner, which is \
+painful for white]
+LB[qb:B][oc:A]
+;B[rc]C[joetait [8k\]: assuming black doesn't have the ladder he must \
+play here
+joetait [8k\]: white extends]
+(;W[rb])
+(;W[qb];B[rb]C[joetait [8k\]: black forces];W[pa]C[joetait [8k\]: white\
+ takes and the sequence ends
+joetait [8k\]: I assume that depending on the position, it may be very \
+preferable for black to connect her P17 stone to the other group
+joetait [8k\]: especially given that we assumed the ladder works for \
+white]
+))))))
+)
