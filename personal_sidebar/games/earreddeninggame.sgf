@@ -1,0 +1,384 @@
+(;GM[1]FF[4]AP[qGo:2.0.0]ST[1]
+SZ[19]HA[0]KM[5.5]PW[White]PB[Black]
+C[The following is the famous ear reddening game. I will try to comment on this throughout. Of course much of this will be far beyond my level, so there will be many mistakes and wrong assumptions on my part. The hope is that I can get more from this by commenting than if I just play it through by myself.
+]
+;B[qd];W[dc];B[pq];W[oc]C[To the best of my knowledge approaching rather than taking the last corner is slightly aggressive on the part of white. I imagine that it may be more common historically - my knowledge of go history is very minimal.
+]
+;B[cp]C[Black takes that last corner]
+;W[cf]C[White takes a large corner. ]
+;B[ep]TR[cp]LB[eq:B][hq:C][po:A]C[I would have assumed that black would prefer to close the other corner at A here, because it faces his own stones, and as played he is facing white stones.
+
+Of couse white could attack at B, but since the marked stone is low black could succesfully pincer around C]
+;W[qo]C[White attacks the open corner. I guess white could look to pincer in the top right after this, and then make a framework on the right side, though black has many options to respond 
+]
+;B[pe]C[As my new joseki book tells me, this is a strong response to the knight's move approach]
+;W[np]LB[oq:2][po:1]C[White attackes the bottom right. Black responds at 1. Apparently the standard response is at 2, taking the corner, and leading to a small variation that is given]
+(
+;B[po]C[the normal response ends too well for white, so black attacks and a fight ensues
+]
+;W[pp]C[white threatens to connect]
+;B[op]C[black blocks and ataris]
+;W[qp]C[white connects]
+;B[oq]C[black connects (note that if black conncts the other way he will likely cede the entire corner]
+;W[oo]C[white ataris to press the advantage
+]
+;B[pn]C[black extends]
+;W[qq]TR[op][oq][pq]LB[nq:A]C[white solidifies the corner group, and puts pressue on the marked stones - if white is allowed to descend at A they will surely die]
+;B[nq]C[black keeps the stones alive
+]
+;W[on]C[white keeps the pressue up]
+;B[pm]LB[no:A]C[Black extends, presumably thinking the cutting point at A may be useful]
+;W[om]C[White follows, gaining influence
+]
+;B[pl]C[black extends again
+]
+;W[mp]C[white protects the cutting point and boxes black in even more
+]
+(
+;B[mq]LB[lq:A][lr:B]C[Apparently this move is a mistake. I assume that black should have jumped to A here. Turns out I am wrong though - black should have played at B. I have put both variations in, showing the error of the first one
+]
+;W[ol]C[white extends before taking advantage of blacks error
+]
+;B[pk]C[which forces black to extend]
+;W[lq]C[then white hanes, attacking and blocking black in
+]
+;B[lr]C[black hanes under
+]
+;W[kr]C[white double hanes]
+;B[lp]LB[ms:A]C[black can only atari this way
+black can play at A and live, but this would be too small to compensate for white's thickness outside]
+;W[kq]C[white is forced to connect]
+;B[qr]LB[mr:1][qn:2]C[black plays here to make space, and so that if he is immediately attacked at 1 he can counter attack at 2 (variation given, since I am not sure about this)
+]
+(
+;W[mr];B[nr];W[ls];B[rq];W[qn];B[qm];W[rm];B[rn];W[ro];B[rp]
+;W[sn];B[rl];W[sp];B[rr]C[at this point white would seem to be dead. However, white may well be able to play differently earlier and still live]
+)
+(
+;W[rr]C[white blocks, ]
+;B[rs]C[black double hanes
+]
+;W[mr]C[white makes this forcing move since he wants to start a ko, and I guess is making the ko bigger]
+;B[nr]C[black must respond
+]
+;W[pr]C[white makes it a ko for life
+]
+;B[ps]
+;W[qs]LB[lo:2][no:1]C[the ko begins 
+ Black plays at 1, note that 2 does not work]
+(
+;B[no]LB[lo:1][mo:A]C[this is blacks only threat. Note that playing here rather than A gives black at least one more ko threat
+
+Also, 1 does not work, see variation
+]
+;W[mo]
+;B[qr]C[black takes the ko back]
+;W[rm]C[white has no threats and must make space to live, which he promptly does
+]
+;B[rl]TR[no]C[black can afford to respond, since as pointed out earlier, the marked stone leaves him with one more ko threat]
+;W[qs]C[white takes the ko back
+]
+;B[lo]C[black makes his threat]
+;W[mn]C[white extends]
+;B[qr]C[black takes the ko back]
+;W[qm]C[white solidifies his territory]
+;B[or]C[this completes the ko]
+;W[ql]C[white tries to push through
+]
+;B[qj]LB[rq:A]C[black blocks here because otherwise, if he chooses to attack the corner later at A, it will not be sente]
+;W[rj]LB[ri:1][rk:2]C[white now attaches here, and black blocks at 1
+
+See variation for why he cannot block at 2]
+(
+;B[rk];W[qk];B[ri];W[pj];B[qi];W[ok]
+)
+(
+;B[ri]
+;W[rk]C[white connects
+]
+;B[ln]TR[mn][mo][mp][np][ol][om][on][oo]C[black extends before connecting, gaining more influence . I think white has to respond or else black will try to net the marked stones]
+;W[mm]
+;B[qi]C[now black connects
+]
+;W[rq]C[white stops the sente attack before it happens]
+;B[jn]C[black jumps out, protecting a potentially weak group]
+;W[ls]C[white makes a forcing move which also helps the white group
+]
+;B[ns]C[black must respond]
+;W[gq]C[white protects his group with this move, gives potential to encroach in to blacks corner too]
+;B[go]C[black holds white in]
+;W[ck]C[white stops black using his thickness]
+;B[kc]TR[pe][qd][qi][qj][ri]C[black pincers the white stone. I feel like the marked stones are working together so that black doesn't have to worry much about them if white jumps out, and black can then focus on attacking]
+;W[ic]C[white counter pincers, and makes potential territory in the process]
+;B[pc]C[black kicks the white stone, secruing the corner too]
+;W[nj]C[white stops black attacking and capping him by playing in a similar area. He also, I feel, gives something for the white stone to run to, increasing aji]
+;B[ke]LB[gc:B][ki:A]C[black jumps, increaing territory, helping to make sure the marked stone can't escape, potentially setting up a capping move around A or a pincer at B]
+;W[og]C[This move threatens to make use of the marked stone, and also invade the right hand side]
+;B[oh]C[Black plays this spirited move, which is aims to cut the white stone off, preventing either of it's uses being utilised]
+;W[pb]C[I am not sure why white does this, maybe it will become apparent]
+;B[qb]C[black blocks, setting up an attack if needed
+]
+;W[ng]C[white extnds, to run with the stone]
+;B[mi]TR[ng][og]C[This move helps to cut the marked stones off, whilst, I guess, coming down on the large white group.]
+;W[mj]C[white has top stop black attacking his central group]
+;B[nd]C[again, cutting off the two stones
+]
+;W[ph]SQ[pk][pl][pm][pn][po][qi][qj][ri]TR[oh]C[white attacks, threatening the marked cutting stone
+
+Also, black must worry about the other marked stones being cut off and killed, which is a real risk]
+;B[qg]C[As I understand it, whites two stones are no longer cut, since the can atari down and then connect. So white now uses these stones]
+;W[pg]C[this helps create thickness. Black would ideally respond, but being behind he must attack
+]
+;B[hq]
+;W[hr]C[white plays under to connect]
+;B[ir]C[black forces
+]
+;W[iq]C[white must atari to connect]
+;B[hp]LB[gr:A]C[but blacks forcing move does make this sente for him - white must repsond to stop A]
+;W[jr]
+;B[fc]C[blakc then takes the initiative to invade here]
+;W[lc]TR[ic]LB[qf:A]C[My guess is that this is trying to make some small life at the top. Moreover, it can use the aji from the marked stone and the potential to play at A. If white responds to the invading stone now it may become to settled at the top to try to invade. But just a guess]
+;B[ld]C[black blocks white in]
+;W[mc]C[white tries to make space]
+;B[lb]LB[ic:1]C[black takes some eyespace, and threatens to undercut the whole group. It also stops white connecting out to 1]
+;W[mb]TR[lb]LB[kb:2][md:1]C[white protects against this
+
+Note that the marked stone is weak ad black would like to connect at 2, but he must play at 1, else see variation]
+(
+;B[md]C[black connects]
+;W[qf]LB[kb:1]C[this is a forcing move. white can now live at the top by playing at 1, but also this group is not going to connect out, so white uses the forcing moves whilst there is still maximum aji]
+;B[pf]C[black cuts
+]
+;W[qh]C[white ataris
+]
+;B[rg]
+;W[rh]C[white pushes as far as he can]
+;B[sh]C[black must connect under
+]
+;W[rf]C[white continues to force
+]
+;B[sg]C[black connects
+]
+;W[pj]C[white attacks the miai cutting points]
+;B[pi]C[black ataris to ensure the connection]
+;W[oi]TR[ng][og][pg][ph][qh][rh]C[white ataris, which I guess also helps the marked stones]
+;B[oj]C[black takes and ataris in the process]
+;W[ni]C[white connects. I think that black now connects since otherewise he may have a shortage of liberties if white attacks]
+;B[qk]
+;W[ok]C[white ataris]
+;B[qe]C[black makes sure that his stones can escape]
+;W[kb]C[white now solidifies his top group]
+;B[jb]C[counter atari]
+;W[ka]C[white extends]
+;B[jc]C[black connects]
+;W[ob]C[again, securing life]
+;B[ja]C[black traps white in with this forcing move]
+;W[la]C[white has to take, leaving black with sente.]
+;B[db]TR[ja][jb][jc][kc][ke][ld]C[Having built some influence with the marked stones, black puts it to use and attacks.
+
+This also protects against white coming under his stone]
+;W[cc]C[White nobis]
+;B[fe]TR[fe][ke]C[black jumps, making a nice box with the marked stones :)]
+;W[cn]C[white expands his territory slightly and approaches black]
+;B[gr]C[black makes a forcing move, helping to solidify the corner]
+;W[is]C[white takes]
+;B[fq]LB[aa:2][io:1]C[black captures the white stone. See variation for why the next move is played]
+(
+;W[io]LB[en:3][fg:2][ip:4][ji:1][kn:5]C[Now is the famous ear reddening move. T obe honest, I don't think I would be able to find any good move for black. I could poke at the bottom group, or try to jump out further at 2 or maybe 3. I think most likely I would poke at  4, then hope to jump out at around tengen, maybe a bit lower, after connecting at about 5.
+
+Anyway, in the game, black plays 1]
+;B[ji]SQ[mi]CR[mj][mm][mn][mo][mp][nj][np][ok][ol][om][on][oo]TR[jn][ln][lo][lp]LB[fg:1][fh:2]C[So, to my mind this move does the following: it can quickly be loosely connect to the four triangle stones; if there is a jump by black to 1or 2 it will help make centre territory;  it help neutralise the circle stones, and this is related to the fact that it helps the square stone]
+;W[eb]C[In response, white goes after probably the largest move on the board]
+;B[fb]C[black must defend]
+;W[eg]C[white now tries to expand the left hand territory, whilst slightly eating in to the centre black hopes build]
+;B[dj]TR[dk][dl][dm][dn]LB[ji:A]C[Black shoulder hits, to instantly try and reduce this. If black builds a wall along the marked points it will play nicely with A]
+;W[dk]C[Hence white blocks the other way]
+;B[ej]C[black extends]
+;W[cj]C[white plays under]
+;B[dh]C[black jumps - I guess this maybe a shape move. I imagine it also serves to stop the two white groups connecting too easily]
+;W[ij]TR[cj][ck][cn][dk][eg]C[This is another move I would never see, but once played looks very nice. White has two ways of escaping -  he can go to either marked group/stone, and will obviously reduce black in the process]
+;B[hm]C[black plays here, lightly attacking the last play]
+;W[gj]C[white jumps, keeping options of connection open]
+;B[eh]C[black is now looking to cut white off from the top before attacking along the bottom of the two stones, and hence keeping the centre]
+;W[fl]C[seeing this white connects out at the bottom]
+;B[fg]C[which lets black close in the top left corner, and moves further towards making sure of territory in the top centre]
+;W[er]LB[bp:3][fr:1][gh:A][gs:2][ii:B]C[I thought white would most likely try to move in around A. Apparently B would be the way to do this, and would be a perfectly good move, but instead white played here, attacking the corner. The last couple of white do show an emphasise on this corner.
+
+Here black could connect at 1 or play down at 2, but then white could come in at 3]
+;B[dm]C[This is not a response to white, but an attack, since black does not have a good response]
+;W[fn]LB[bp:A]C[white counter counter attacks with this move. If he responded to black and the came in at A later he would be over concetrated, and hence wants to avoid this]
+;B[dn]C[black blocks]
+;W[gn]C[white threatens to cut through]
+;B[jj]TR[dj][dm][dn][ej]C[black then moves to the centre of the board. I don't think I have any useful insight - my only guess is that he is blocking the route to the lagre right hand side group because the marked stones give potentional to cut]
+;W[jk]C[white hanes]
+;B[kk]C[black blocks]
+;W[ii]LB[ik:A]C[white extends. Note that if white double hanes, black can ataria at A and the result is bad for white]
+;B[ik]C[Black still ataris, but the result is not disastrous for white]
+;W[jl]C[whtie extends]
+;B[kl]C[black blocks]
+;W[il]C[white turns and protects. Obviously if black plays here then the white stones will die, so white must respond]
+;B[jh]
+;W[co]LB[cm:A]C[White plays this now to stop black playing at A first, after which this move will not work and the group will just get cut off]
+;B[do]C[black blocks and connects]
+;W[ih]C[white can't let black have the entire top centre]
+;B[hn]TR[il][jk][jl]LB[hk:A]C[This threatens the three marked stones 0 if white ignores black plays at A]
+;W[hl]
+;B[bl]TR[cn][co]C[Helps ensure the marked stones are dead, but also puts pressue on the centre]
+;W[dg]C[white solidifies]
+;B[gh]C[black defens]
+;W[ci]LB[ch:A]C[white defends - this move is an error - I will edit this at some point, but for now note that this move should be at A. Sorry!]
+;B[ig]C[black secures the top territory]
+;W[ec]C[white connects to secure the corner]
+;B[cr]TR[cn][co]LB[fr:1]C[black defends his corner. Apparently playing at 1 is bad due to the marked stones, but this is more subtle than I want to go]
+;W[fd]C[white threatends to break through
+]
+;B[gd]TR[ic]LB[gc:A]C[black blocks. Given the marked stone, the cuttting point A looks dangerous]
+;W[ed]C[white connects]
+;B[gc]C[black must connect]
+;W[bk]C[white again defends in sente]
+;B[cm]C[black must respond here]
+;W[gs]
+;B[gp]C[black takes to be sage]
+;W[li]C[I guess this helps set up an attack if black tries to move east at the top]
+;B[kg]LB[jg:A]C[Ah, also, the now defend cutting pointing at A could have been vulnerable]
+;W[in]C[white threatens to cut the two black stones]
+;B[lj]C[Apparently black thinks that this is bigger]
+;W[lg]C[and white is forced to respond]
+;B[gm]LB[ho:2][jf:1]C[black comes back and defends the cut. See variation if white plays at 2]
+(
+;W[ho];B[fm];W[em];B[en]
+)
+(
+;W[jf]C[white peeps]
+;B[jg]LB[im:1][kf:2]C[black connects. If lack connects at 2 his entire middle dies]
+;W[im]C[white forces black to connects]
+;B[fm]C[black takes the two stones]
+;W[kf]C[white tries to come out]
+;B[lf]C[black blocks]
+;W[mf]C[white ataris]
+;B[le]C[black connects]
+;W[gf]C[the last four moves mean that this is now a forcing move and black cannot connect, or again the middle dies]
+;B[hf]C[black must block here]
+;W[ff]C[white connects]
+;B[gg]C[black connects]
+;W[lk]C[now that the middle is solid, white maximises territory with this group]
+;B[kj]C[black connects]
+;W[km]C[white tries to cut]
+;B[lm]C[black threatens to connect]
+;W[ll]C[white cuts and secures the territory]
+;B[jm]C[and black must defend]
+;W[ge]C[which allows white to come back and attack here. Note that at this point black is ahead]
+;B[he]C[black blocks and ataris]
+;W[ef]C[white connects, giving black the initiative]
+;B[ea]C[black connects underneath]
+;W[cb]C[white ataris]
+;B[fr]C[black threatens to cut]
+;W[fs]C[white connects]
+;B[dr]C[black bumps ]
+;W[qa]C[white takes the initiative]
+;B[ra];W[pa];B[rb]C[standard play]
+;W[da]C[white takes the black stone]
+;B[gi]C[the next couple of moves give black an eye, so he does not have to be concerned about the top of the board]
+;W[fj];B[fi];W[fa]C[white takes]
+;B[ga]C[due to the eye black can safely block]
+;W[gl]C[white stops black cuting through]
+;B[ek]C[white bends down]
+;W[em]C[white forces the connection]
+;B[ho]
+;W[el]C[white threatens to connect]
+;B[en]C[black blocks]
+;W[jo]C[white ataris and threatens to disconnect]
+;B[kn]
+;W[ch]LB[ci:A]C[It appears that I made a misclick earlier - this move should have been played when A was, and A should have been played now]
+;B[lh]C[black ataris]
+;W[mh]C[white takes]
+;B[mg]C[black takes]
+;W[di]C[ko threat]
+;B[ei]
+;W[lg]C[white takes the ko back]
+;B[qn]C[ko threat]
+;W[rn]
+;B[re]C[black must defend the group]
+;W[sl]LB[sr:A]C[white takes, else A is sente]
+;B[mg]
+;W[bm]C[white threatens to connect under]
+;B[am]C[black ataris]
+;W[lg]C[whte takes]
+;B[eq]C[black ataris]
+;W[es]
+;B[mg]C[black takes]
+;W[ha]C[The rest of the game is basically a huge ko and I won't comment on this]
+;B[gb];W[lg];B[ds];W[hs];B[mg];W[sj];B[si];W[lg];B[sr];W[sq]
+;B[mg];W[hd];B[hb];W[lg];B[ro];W[so];B[mg];W[ss];B[qs];W[lg]
+;B[sn];W[rp];B[mg];W[cl];B[bn];W[lg];B[ml];W[mk];B[mg];W[pj]
+;B[sf];W[lg];B[nn];W[nl];B[mg];W[ib];B[ia];W[lg];B[nc];W[nb]
+;B[mg];W[jd];B[kd];W[lg];B[ma];W[na];B[mg];W[qc];B[rc];W[lg]
+;B[js];W[ks];B[mg];W[hc];B[id];W[lg];B[fk];W[hj];B[mg];W[hh]
+;B[hg];W[lg];B[gk];W[hk];B[mg];W[ak];B[lg];W[al];B[bm];W[nf]
+;B[od];W[ki];B[ms];W[kp];B[ip];W[jp];B[lr];W[oj];B[mr];W[ea]
+;B[sr]C[This is the end of the game and black wins by two points]
+)
+)
+(
+;W[aa]C[if white tenukis]
+;B[jp]C[black can attack here]
+;W[jq]C[which forces white to connect. white is alive, but completely boxed in with minimal life, and black has thickness with minimal aji )and sente)]
+)
+)
+(
+;B[kb]
+;W[od]C[white pushes]
+;B[oe]C[black must block]
+;W[pd]C[white ataris]
+;B[qc]C[black connects]
+;W[ne]TR[lc][mb][mc]C[white threatens to connect the marked stones out]
+;B[md]C[black must connect]
+;W[qf]SQ[pk][pl][pm][pn][po][qg][qi][qj][ri]TR[oe][pe]C[white can now hane, threatening the triangle stones and hence threatening to connect out, and also threating the square stones]
+)
+)
+)
+(
+;B[lo]
+;W[ns]C[white ataris the large group
+]
+;B[ms]C[this is the only move for black
+]
+;W[or]C[another atari
+]
+;B[os]C[again the only move, but now white can take, which ataris again, and then kill unconditionally
+]
+;W[ns]
+(
+;B[os]C[if black takes back, white connects
+]
+;W[no]
+)
+(
+;B[no]C[if black ataris, white takes]
+;W[mr]
+)
+)
+)
+)
+(
+;B[lq];W[mq];B[mr];W[lr]C[if black connects white gets the ladder, and black will find it had to live. but if black ataris white can counter atari, which is even worse]
+(
+;B[kr];W[nr];B[ls];W[pr]
+)
+(
+;B[nr];W[kq];B[qr];W[rr];B[ps];W[os];B[or];W[rs];B[ns];W[qs]C[one eye :(]
+)
+)
+(
+;B[lr]
+)
+)
+(
+;B[oq]
+;W[oo]C[white connects
+]
+;B[mq]C[black jumps
+]
+;W[qi]TR[pe][qd]C[white makes large moyo and puts pressure on the marked stones]
+)
+)
