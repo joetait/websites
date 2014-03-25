@@ -1,0 +1,88 @@
+(;GM[1]FF[4]AP[qGo:2.0.0]ST[1]
+SZ[19]HA[0]KM[5.5]PW[White]PB[Black]
+C[This is a rough reviw of the opening chapter of Masao Kato's book "The Chinese Opening", subtitled "The Sure-Win Strategy".
+
+The first five moves will show the Chinese opening for black. White will play a nirensei (i.e. the two star points), but note that whites response in general does not matter (except, possibly, for white's second move, which will be mentioned).]
+;B[pd]C[black starts with the symmetric 4-4 points]
+;W[dd]
+;B[pq]C[black then plays the 3-4 furthest from his 4-4. This is generally correct regardless, since it maximises the "territory" between the opening stones, and increases influence towards the corner where white will presumably play next]
+;W[dp]TR[po][qo]C[White could play this at the marked points to stop the chinese, but this would be very aggressive, and black should be happy with forcing white to follow whatever plan she initially had]
+;B[qk]TR[pk]LB[jp:4][mp:5][nc:6][po:2][qf:3][qo:1]C[This move completes the low chinese, which I will be focussing on. The high chinese would see this stone played at the marked point.
+
+The general idea here is that black builds a very large moyo (framework) on the right hand side. If white attacks from the outside it can be quickly solidified in to territory. If, on the other hand, white invades, she will quickly find that she has weak running groups, which is good for black.
+
+1 shows the pitfalls of the "obvious" approach
+
+2 shows the more common and reasonable high approach
+
+3 shows how white can invade blacks moyo immediately
+
+4 and 5 considers white approaching along the bottom
+
+6 shows how white may approach  from the top]
+(
+;W[qo]C[White approaches here, and the issue should already be clear - white is pincered (albeit very loosely) ]
+;B[qp]TR[qk]C[because of the marked stone black can afford to kick]
+;W[po]C[white cannot escape, and hence must extend]
+;B[np]C[black stops white bending and trapping him in the corner, whilst keeping the pressure on white
+
+]
+;W[ol]C[white can try to escape this way]
+;B[pj]C[but black can calmly play here, making more territory whilst keeping the pressure on.]
+)
+(
+;W[po]
+;B[np]C[since white is high black cannot attack directly. This move aims to block white in, and then if white doesn't respond, the whole corner can be taken]
+;W[qq]C[white comes under to make eye space]
+;B[qr]C[black blocks the corner]
+;W[qp]C[white connects]
+;B[rr]C[black strengthens his stone]
+;W[qm]C[white completes her base, making the group at least very difficult to kill]
+;B[ok]C[white prevents white getting out, and leaves some aji for white to worry about]
+)
+(
+;W[qf]C[If white approaches from this side black could immediately pincer and solidify the right side.
+
+However, white will normally kick to take the corner]
+(
+;B[qh]C[black can solidify the right hand side whilst pincering]
+)
+(
+;B[qe]
+;W[pf]C[white must extend out]
+;B[nd]C[black takes the corner]
+;W[qi]C[white makes a base]
+;B[ok]C[black gets to help the lower right side whilst still attacking white]
+)
+)
+(
+;W[jp]C[If white approaches here]
+;B[fc]TR[pd]LB[po:A]C[Black can just play elsewhere. The enclosure at A is possible, but it goes against the idea of leaving the bottom right open for a ready-pincered invasion, which black then takes advantage of.
+
+The top side is particularly inviting for black in order to try and make an even larger moyo on the top with the marked stone]
+)
+(
+;W[mp]C[In this case, because white has approached so closely, it is best for black to take the corner]
+;B[po]
+;W[jp]C[White will follow up with something like this so his stone cannot be pincered]
+)
+(
+;W[nc]LB[lc:2][pf:1]C[The obvious, simple move of 1 is obvious and simple
+
+2 has more possibilities]
+(
+;B[pf]
+;W[jd]C[white could come in the corner, or just play here, as long as she helps her stone]
+)
+(
+;B[lc]C[From here white can play in the corner or counter pincer]
+(
+;W[qf]C[if white counter pincers as so. From this black could split the stones, or play on top of the pincered stones, which should help to build a wall facing his other stones]
+)
+(
+;W[qc]C[if white plays the corner a joseki ensues]
+;B[qd];W[pc];B[od];W[nb];B[me]TR[od][pd][qd]C[There is some aji for black, but the marked wall is a very good result]
+)
+)
+)
+)
