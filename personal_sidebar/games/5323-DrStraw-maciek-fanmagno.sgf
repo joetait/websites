@@ -1,0 +1,441 @@
+(;GM[1]FF[4]AP[qGo:2.0.0]ST[2]CA[UTF-8]
+SZ[19]HA[0]KM[0.5]TM[1412]OT[5x34 byo-yomi]
+PW[maciek]WR[3k]PB[fanmagno]BR[4k]RE[B+4.50]DT[2006-08-13]PC[The Kiseido Go Server (KGS) at http://kgs.kiseido.com/]
+C[I am reviewing a game between a 3K and a 4K, which I took from the Go teaching ladder (http://gtl.xmp.net/). I was looking for something about 5 ranks higher, so I could still understand what was going on, and an even game, since I think that is more interesting. It is also very close, only being won by 4.5 points
+
+It has been reviewed by a 5 dan, and I have left their comments in.]CA[UTF-8]RU[Japanese]GC[Review for GTL by Steve Fawthrop, AGA 5d.]
+;B[qd]C[Standard first move]
+;W[dd]TR[oc]C[White plays in the correct dierction, making an approach at the marked point easier]
+;B[pq]C[Another standard move]
+;W[dp]C[Flexible]
+;B[oc]C[Black close the corner, taking territory. It would also make playing around the right-middle star point very advantageous]
+;W[po]TR[pm]C[White stops black building a large framework on the right side. I think the correct thing for black to do here is pincer at the marked point, since this would play well with the stones at the top]
+;B[qo]TR[pj]C[My understanding is that here black is looking for territory (which was indicated by blacks third move closing the top right corner). This could end with white having a wall facing his 4-4 stone in the bottom left, and if black has sente after this then they will likely want to play around the marked point]
+;W[qn]C[Joseki - see http://senseis.xmp.net/?34PointHighApproachInsideContact]
+;B[qp];W[pn];B[nq];W[qj]TR[pn]LB[pm:A][qh:C][qi:B]C[The comment below is by the 5-dan reviewing. Note that as played this is joseki - obviously a better player knows when to play josekis as given and when to adjust to the situation
+
+The two marked moves are better played at A and B.  This stretches farther up the side and so makes a Black extension from his shimari less attractive.  With the combination played a Black move at C, with the resulting threat to invade, is much more attractive.]
+;B[cf]TR[qh]C[This is the standard approach. Though not said here, given the previous comment it may be preferable to play at the marked point to keep the pressure on immediately. On the other hand, the sequence in the corner should be sente for black, and thus it shouldn't matter
+]
+;W[fc];B[bd];W[cc];B[ci]SQ[fp][fq]TR[bd][cf][ci][nq]LB[dj:A][fc:B]C[In the comment below the review says black should have played at A rather than B. Though it is explained why, I can't help but feel that this doesn't put much pressure ont he marked group, and leaves the top left corner vulnerable.
+
+Also, in light of the comments below, I feel that an approach at one of the marked points in the bottom left would be good, extending along the bottom.
+
+Reviewers comment - This is a very steady joseki and is advantageous to Black, who now has solid territory in three places.  By contrast the White stones don't seem to have much going for them.  The upper left is solid but small, the lower right is not optimal as already explained, and the lower left star point is now crying.  Star points are played for influence but the two marked black stone completely nullify and influence.  White should probably have pincered at A instead of playing B.]
+;W[gq]LB[cn:B][fq:A][qf:C]C[The comment below says that A and B are difficult to choose between, so play C. Obviously C would give black the choice between approaching the better way, but the point is neither way is much better to approach (otherwise white would have an easy choice!). Hence white won't lose much in the corner, and will have gained in the top corner.
+
+reviewers comment - It is hard for White to know which side to play, A or B and so for now I would hold off and place at C before Black gets the chance to extend.  'A' is better than the move played for two reasons: it protects the corner better (if B invades he can live and W's influence wold be useful) and it is more solid, not approaching as close to the strong black lower right.]
+;B[ic]LB[bc:B][hc:A][kd:C]C[I think the reviewer's comments are clear.
+The comment below makes clear that white doesn't respond locally. I woudl imagine that white now approaches the corner enclosure (the shimari)
+
+comment from submitter - (i'm not sure about this move
+i thought white would play b17 here so I could switch R12 than, to create double wing formation)
+
+Reviewer's comment - This would probably be true if you had played on point to the left of this, but this move is just not a strong enough threat.  Also, it is the wrong direction.  Extend in front of a shimari first, especially if not doing so would allow the opponent a big point.  Also, the sequence bA, wB, bC is gote, but playing A without C is pointless.]
+(
+;W[qg]C[reviewer's comment - This is weak.  White must extend one point further, threatening the corner.  This is purely a defensive move, with no effect on the corner.  One-dimensional moves should never be played in the opening.
+
+My comment - It is not clear to me why approaching space closer threatens the corner. I have given two variations of what happens if white plays at S17 though. In one black blocks at R17, and then white connects out. I think that won't work without the white stone being one closer, so I guess this is  what is meant.]WL[1412]
+;B[bc]TR[ic]C[Black continues to try and pressue in the corner, building on the marked stone. Note that black can do this because of the weak move earlier]
+;W[bb]LB[db:A][fe:B]C[Reviewer's comment - This is asking for trouble. If blacks plays at A then W does not have good shape.  Because black is extended to the wrong point at the top White should try to take advantage of that by playing B now, which threatens to invade to top.
+
+My comment - note that if white had played correctly here, and black had extended the shimari, he would have a very strong and large framework on the top]
+;B[db]C[black attacks at the correct point, as per the last comment.
+
+I assume white must connect.]
+;W[cb]TR[qg][qj]LB[ab:C][db:B][ec:A][ie:E][ld:D][oe:F]C[submitter's comment - (the idea was to play e17, but after calculate that i would have to go on second line i have decided to play j15 in sente(?))
+
+Reveiwer's comment - If you are not going to follow up with A then don't play B.  Once B has been played black no longer has the move at C in the endgame.  In a position such as this the best play is usually to strengthen your own group.  D (or maybe F) is the way to do this, not E.
+
+My comment - I imagine part of the reason blac needs to solidify is because of white's marked stones on the right side. Though they are low, white could still try to invade, and if pushed out black can't gain much as the right side is now white's territory (or black cuts off his own corner).]
+(
+;B[ie]LB[nd:A]C[Reviewer's comment - This "open tray" formation at the top is not so good.  It is too wide.  White can easily reduce at "A" because he is backed up by a strong grop on the right.
+
+My comment - I think this is clear: similar to the last comment, but a reduction rather than an invasion. I guess white should either play at A now, or extend from the corner to the left hand side]BL[1412]
+;W[cd]C[Reviewer's comment - This move has little value.  Black can ignore it and extend down the left side or solidfy to top.  Threat is merely to capture two stone - a yose move.  Not only that, it creates an empty triangle.
+
+My comment - I guess that white felt threatened by black's move, but the reviewer says this is not necessary. To be fair, I think it is clear that one is not creating eye space with this. The reveiwer also notes the left side as a big point]
+;B[ce]LB[cm:B][kq:C][nd:A]C[Reviewer's comment - Not bad, but not really required this early in the game.  The move implies that black is expecting to attack the white group.
+
+My comment - I guess the issue is mainly that it is not a big move. In particular, white can still play at A or B (or even C). On the other hand, I imagine white still respond locally, given the play till now.]
+;W[gb]LB[hb:B][kc:A]C[submitter's comment - (i wasn't too happy with the result - white is safe and can easily invade with l17)
+
+reviewer's comment - This is a nice result for black. White has taken gote to secure a group which was not severly threatened.  White cannot easily invade that A because of black reply at B,
+
+My comment - This is a solid move that secures life, but white could still have run with the group anyway (just), so not entirely necessary. Obviously, it could be worth playing now, else it becomes urgent.]
+(
+;B[cp]TR[cm]C[Submitter's comment - (is it correct?
+after c6 white takes whole corner with c4
+or maybe san-san was better?)
+
+Reviewer's comment - Black is low on the left so has no great ambitions to take a lot of territory there.  It is therefore better to invade the corner at 3-3 and let white have his influence.  That influence would not be worth so much.
+
+My comment - There are two variations given,  neither by me. I think this move would make a lot more sense if black had already extended to somewhere around the marked point, though I think it may be a bit far. One of the reasons that white's influence isn't that important is that black can extend from the left group and (laregly) negate it]BL[1412]
+;W[cq]C[White takes the corner - white does not have much territory, and black is low on the left, so this makes sense]
+;B[co]LB[bq:B][do:A]C[black must extend. I am not sure what it is best for white to here. White could extend to A to make more influence, or play at B to secure the corner. However, letting black turn at A seems bad.]
+;W[bq]C[white protects the corner]
+;B[do]TR[bb][cb][cc][cd][dd][fc][gb]LB[dj:A]C[black turns. Seeing it now I guess that white can still reduce at A. Moreover, the fact that the marked group is safe means white doesn't have to worry about it when white runs from this.]
+;W[ep]C[white obviously stops the atari.]
+(
+;B[dl]LB[eo:A]C[Reviewer's comment - Now black is overconcentrated and undercut at the bottom.  Black would be better to push at A.
+
+My comment - I imagine that black was worried about the reducing move I described. ]
+;W[nd]TR[ie]LB[lc:D][ld:C][nc:A][oe:B]C[Reviewer's comment - This is the reason that the marked stone was bad.
+
+My comment - I think, other than possibly the bottom, this is the only big move left. I don't know what a good response from black is. Black can block at A but this seems to submissive. Alternatively, trying to cut the stones off at B might be worth doing. This could weaken the marked stone, which suggest a third option of "pincering" with C or D.]
+(
+;B[nc]LB[oe:A]C[Reviewer's comment - This is too timid.  B cannot submit like this. 'A' is much better but probably requires dan-level reading to follow through.
+
+My comment - see previous comment. At this point I imagine white will now play at A. Note that there is a variation as to what happens if black plays at A given by the reviewer.]BL[1412]
+;W[dj]C[Reviewer's comment - Nice.
+
+My comment - I think I would have stayed with the white stone in the top right to make sure it connects, but this is probably not necessary, since all it needs to do is create and annoyance. The white stone cannot be killed and keeps black low]
+;B[cj]LB[dk:A]C[blakc obviously  blocks. I think white will now likely extend to A to strength the stone and still threaten to cut]
+;W[dk]C[Black must extend once more]
+;B[ck]LB[fk:A][fn:B]C[Now I imagine white will need to jump to A. This threatens to block black in with B, and keeps the two stones from getting surrounded]
+;W[el]LB[ek:A]C[This seems like a more aggressive/dangerous approach, but also looks pretty legitimate. Having said this, I wouldn't know what to do about the cut at A]
+(
+;B[dm]C[Reviewer's comment - This is timid.  B is severely overconcentrated.
+
+My comment - The reviewer has given a variation. Rather than cutting he makes a double hane - something that looks very appropriate in the situation, and also something I always forget to do.]BL[1412]
+;W[ld]TR[ic][ie]LB[kc:B][mc:A]C[White is now happy to leave the situation and make forcing moves elsewhere. In particular, I think white may be trying to make it easier to get the white stones on the left hand side out. Of course, white is more putting a lot of pressure on the marked stones. 
+
+I imagine black could/should extend to A, which threatens to push through, and then jump to B]
+;B[md]C[Black tries to cut more directly, which does seem to put more pressure on white]
+;W[me]C[and obvious response, but will leave white with cutting points]
+;B[mc]C[white will have to connect, presumably on the right hand side]
+;W[le]TR[ic][ie]LB[dm:A][ne:B]C[Reviewer's comment - Too good for White.  This is because Black gave up sente to play the bad move of A.  In fact 'A' could turn out to be the losing move.
+
+My comment - I assumed that white woulc connect at B. I suppose that this way, whilst black can play at B and kill the white stone, white has a greater threat of cutting off and pressuring the marked stones]
+;B[pf]LB[ne:A]C[submitter's comment - i decide to attack and break to the center...
+
+My comment - this is using the weakness at A, but if black played directly at A then black would be blocked in at the end. Playing this way gives a much greater likelyhood of breaking out, as described above]
+;W[pg]TR[pg][pn]C[white blocks, making a nice box with the marked stones, and keeping the possibility of blocking black in. I assume black will extend upwards]
+;B[of]
+(
+;W[ib]LB[og:A]C[Reviewer's comment - This is a terrible move.  This area is totally unimportant.  White must seal Black in on the right and try to make a moyo  See the variation.
+
+My comment - I assume that black should turn at A now, or possibly try to make block at K18 and then do this.]WL[1412]
+;B[jc]C[This keeps the sente better than K18 whilst still blocking white from connecting, and I imagine black still hopes to turn]
+;W[jb]C[White is still trying connect, or maybe just take up space. Black should probably hane here]
+;B[lc]C[Ah, this is definitely a much better, allowing black to disconnect white in sente]
+;W[kc];B[kd];W[kb]TR[ld][le][me][nd]C[In sente, as claimed. Now the marked stones look very weak, and black can extend or turn to take advantage]
+;B[ke]TR[ic][ie][jc][kd][ke]C[I feel this gives white a greater chance to get out, but it does make the marked group safer]
+;W[nh]SQ[ke][le]LB[kg:B][mg:A]C[Reviewer's comment - This is too late.  White gained little at the top which was not there for the taking later, but he has lost in the exchange of marked groups
+
+My comment - I think this move has been played, rather than the obvious jump to A, to try to secure territory on the right hand side. I imagine black should jump out around B to keep the pressure on]
+;B[kf]LB[mg:A]C[Submitter's comment - it looks very slowly
+
+Reviewer's comment - No.  This is very solid.  Black can now either easily captuire the White stones to the right or can make good shape in the middle.  This is the key point which prevents White from spoiling B's shape.
+
+My comment - I guess I was along the right lines, bit not quite there. Now white must extend out, maybe about A]
+;W[dg]SQ[ic][ie][jc][kd][ke][kf]TR[dj][dk][el]C[Or white can ignore - I guess if there is no good move this make sense. Also, with the marked stones, white could make a nice wall here, pressurising the square marked stones. I assume that black will block.]
+;B[cg]TR[bb][cb][cc][cd][dd]LB[df:A][dh:B]C[Now I imagine white will play at A or B. B would be preferable it forced black to connect, but in this case black should be strong enough anyway, so A would improve the chance of connecting the white stones to a living group and hence making a strong wall]
+;W[mp]LB[no:B][op:A]C[Reviewer's comment - Nice move, but play A first.
+
+My comment - Given that there wasn't anything obvious for white to do in the top right it makes sense for white to play elsewhere. This tries to block black in and make a larger framework on the right hand side. Given the comment, I imagine black should play at A or B]
+;B[mq]C[Black extends, a solid move, but could give white a chance to fix]
+;W[kp]TR[ic][ie][jc][kd][ke][kf]C[White is trying to take the bottom left as well as the right side. This also emphasises the fact that the top middle black group has nowhere to run]
+;B[ki]C[Black tries to make space for his weak group]
+;W[fk]C[White protects the cutting point. Could help significantly to prepare to attack]
+;B[lp]C[ Black tries to break in/minimise white territory/make cutting points in whites setup]
+;W[lo]C[white block sin the obvious way, forcing black to connect]
+;B[lq]LB[ko:A][mo:B]C[white will connect. I think connecting at A is slightly better, since if black plays at B white will easily containt black by atari-ing]
+;W[ko]C[See previous comment]
+(
+;B[mg]LB[mh:A][mj:B]C[submitter's comment - i haven't any idea how to reduce whites moyo so decide to take 4 stones
+
+reviewer's comment - Taking these 4 stones is gote and has little effect on the W moyo.
+
+My comment - reviewer has made two variations. Essentially they are saying black should try to use aji to live in the middle. Given what balck did play I imagine white would play about A or B to cut black off or secure territory]BL[1412]
+;W[ng]LB[nf:A]C[Reviewer's comment - Pointless
+
+My comment - This move does do nothing. Black will likely block at A]
+;B[nf]LB[mj:A]C[Reviewer's comment - It is better to move towards the center.  Capturing these stones is only about 10 points in gote.  Playing at 'A" is much bigger.
+
+My comment - . So my move would be that of a 4K, not a 5D. Once it is pointed out it does appear that this will redcuce a lot more than ten points. I guess that will pay at A now anyway]
+;W[fn]LB[kq:A]C[Reviewer's comment - This is not as big as it looks because B can jump in along the bottom edge.
+
+The reviewer is pointing out that if white had a stone at A this move would secure a hge amoutn of territory]
+;B[jq]LB[ip:A]C[White should probably play at A, especially given white's previous move]
+;W[re]LB[ip:E][lh:B][lj:C][mh:A][mj:D]C[reviewer's commet - Not big enough.  Wa, Bb, Wc is bigger.
+
+My comment - I actually forgot about that fact that white should play around here. However, as commented, this particular move is quite small. Black could block, but I guess that D or E is bigger]
+;B[rd]C[Reviewer's comment - Big, but still gote.  You cannot win b taking gote all the time.  The center is still bigger.
+
+My comment - see previous comment. White should block black at the bottom or the right hand side (probably on the right is better)]
+;W[qe]C[Reviewer's comment - Very small compared to the center.]
+;B[qf]LB[pe:B][sd:A]C[Reviewer's comment - Meaningless.  This loses the sente hane along the edge and therefore give W a free senete move at A. (Claiming that 'B' prevents the W hane does not hold water because that would be gote.]
+;W[rf]
+;B[pe]C[7 pts in gote - very small.]
+;W[mj]LB[lh:B][lj:C][mh:A]C[Reviewer's comment - Wa, Bb, Wc is better.
+
+My comment - To my mind this move is not significantly different from C, though it does seem that A or maybe B (though B does seem more difficult) have their virtues: in particular, playing A first, forcing a response, then playing C seems good]
+;B[no]LB[mo:C][mp:B][nn:D][np:E][op:A]C[Reviewer's comment - This move shows why W should have played 'A' in sente before playing 'B' earlier.
+
+My comment - clearly white can't disconnect this black stones. I think White's best chance is to connect at C and then cap at D or disconnect at E]
+;W[mo]C[White connects, forcing black to connect]
+(
+;B[oo]LB[nm:B][nn:A]C[Reviewer's comment - o4 was much better i think
+
+My comment - So I guess that this still connects, but it leaves white with a forcing move at A. See variation by the reviewer. White will likely have to block at A or B]BL[1412]
+(
+;W[op]C[Reviewer's comment - Wrong direction.  See the variation.
+
+My comment - see variation.]WL[1412]
+;B[np]C[black obviously connects, correcting the previous error. White should still block on the outside at this point]
+;W[pp]C[This allows black to come out in to to white's territory]
+;B[oq]LB[nm:B][nn:A]C[I think that this is unnecessary. It will not be ideal for black to not connect here, but I don't think he will die if forced to black at P2 after P3. White really has to block around A or B now]
+;W[rn]LB[qq:A]C[I assume white is threatening to cut at A here. See variation.]
+(
+;B[rq]TR[hn][ho][hp][in][io][ip]LB[nm:A][nn:B]C[Reviewer's comment - Black might consider giving up the corner to take 'A'.  Protecting the corner is purely defensice, whereas 'A' not only reduces the center but threatens to play in the marked area with a view to attack the 5 stones.  Of course, this last idea is not likely to materialize, but the very threat puts a damper on W's potential around here.
+
+My comment - So the threat is as ascertained, but A is still a possible play. It certainly is very large. Given this white now must really, really be forced to play at A, or maybe B]BL[1412]
+;W[nm]LB[dh:B][hi:C][ip:A]C[Finally! Black should tenuki, and to my mind A, B and C are big moves.]
+;B[se]LB[kk:A]C[This is at best sente, and white could ignore and play about A to expand the centre]
+;W[rg]C[white respondes. My opinion goes back two moves, and where I think black should play again]
+(
+;B[ip]TR[dg][dj][dk][el][fk]LB[jk:A][kk:B]C[Reviewer's comment - This is a one-dimensional move.  It's sole purpose is to reduce.  But the territory around here can also be reduced from above at 'A' and this move would also threaten to expand B's center potential.
+
+My comment - there are two variations given by the submitter. One of them is close to the recommended play here. The point is that the centre is the main point now. Given this, White playing at B now would be good, thought not the only move. I think something helping/expanding on the marked stones would be good.]BL[1412]
+;W[kk]LB[hi:A][in:B][ip:C]C[Reviewer's comment - This proves my comment on the last move.  This is a two-dimensional move, expanding W and reducing B.
+
+My comment - I can't see anything obvious for black now. Maybe A can help expand black slightly. Also, B may be possibly, having expanded at C already]
+;B[mi]C[This is a forcing move, threating to invade white's territory]
+;W[ni]C[whtie obviously blocks. Now black is in the same situation as before, and must find a good move]
+;B[lj]C[Reviewer's comment - These two moves do not do a whole lot for B.  They just fill his liberties.
+
+My comment - as above, this is just a forcing move.]
+;W[lk]
+;B[hr]C[White now makes sure of is bottom territory, and threatens to come in to white's corner. White is probably best to block here, but the centre moves are still important]
+;W[gr]C[white does block, and again, black must find a big move]
+;B[in]LB[ij:A]C[Reviewer's comment - I would prefer a move around 'A', which is a 2-dimensional move instead of this 1-dimensional one.  Both serve to reduce but  'A' also serves to expand B.
+
+My comment - I think I suggested this a few moves ago. A certainly does give some extra territory in the middle. I also don't think white has to worry much about this move]
+;W[an]LB[bm:A]C[White makes a monkey jump, a large move in to blacks territory. I think black should block at A here]
+;B[bn]LB[ao:A]C[Oh, this is fine, since if black plays at A black has a tiger's mouth]
+;W[ao]LB[am:A]C[Black now blocks at A]
+;B[am]C[White must connect next]
+;W[ap]C[Black also must connect]
+;B[bm]LB[gg:A][gi:B]C[Now I think white should come out about A or B]
+;W[ma]C[White again makes a large move in to black's territory]
+;B[nb]
+;W[mh]C[another forcing move]
+;B[lh]LB[lg:A]C[reviewer's comment -  B does not have the time for this - he must retreat to 'A'
+
+My comment - clearly A is a more solid move. I think that if white were to atari now it would be good.]
+;W[lg]C[Submitter's comment (I think) - ouch, i thought it will be end of the game, but opponent didn't notice l12...
+
+My comment - I think it is a forcing move that may as well be played now... Black must connect]
+;B[mf]C[White can take and atari]
+;W[li]C[Black must connect again, or start a big ko]
+;B[kh]C[White can take and move further in to the centre. However, it is not a big move, and explains why it was likely not worth doing now]
+;W[ir]TR[gq][gr]C[So white does not even take advantage of the moves in the middle. Instead white plays this tesuji, which is connected to the marked stones]
+(
+;B[hq]C[Submitters comment - i didn't read it out
+
+My comment - a variation is given by the submitter]BL[1412]
+;W[kq];B[jr];W[kr]TR[hq][hr][in][ip][jq][jr]C[The marked stones are now cut off without an eye]
+;B[gp]C[Black starts to try and make eye space]
+;W[fp]LB[il:A]C[White blocks black solidly. I guess that the obvious move is for black to extend to A]
+;B[go]LB[il:A]C[I guess this helps to make more eye space. White can block at A now]
+;W[en]LB[hs:A][js:B]C[Reviewer's comment - Better to play 'A'.  Note that 'A' is better than 'B', because after 'B', black can play 'A himself.
+
+My comment - A helps to keep the pressure on more. Black could play at either to make an eye now]
+;B[is]C[Or black could play here to make an eye]
+;W[ge]TR[ic][ie][jc][kd][ke][kf][kh][ki][lh]C[White tries to make territory here, but primarily takes away from blacks territory. Eventually white could pressure the marked group]
+;B[gs]LB[fs:A]C[Black plays a more pressurising move, threating white's corner. White can't block directly at A here]
+;W[fr]LB[hg:A][ij:B]C[White must block in this manner. Black can now play around A or B]
+;B[fs]C[White can atari now]
+;W[es]C[black must connect]
+;B[hs]C[white must connect too]
+;W[er]LB[hg:A][ij:B]C[Again, black should play around A or B]
+;B[hg]LB[df:A][ij:B]C[Invading white's space and making more territory for black at the same time. To be safe white could extend to A, or to be more aggressive white could play at B]
+;W[ac]C[White makes a sente attack]
+;B[ae]C[As two moves ago]
+;W[ms]C[white comes in to black's territory]
+;B[nr]LB[lr:A]C[reviewer's comment - Cowarice - there is a hanami ko by playing at 'A'
+
+My comment - see http://senseis.xmp.net/?HanamiKo
+for details of hanami ko]
+;W[jo]C[white threatens blacks group. Black needs to block]
+;B[io]LB[ij:A]C[White can now again come in somewhere like A]
+;W[hm]C[White reduces from this side first]
+;B[jm]C[Black tries to take some territory away from white. Black has two diretions to block, and not much to choose between them]
+;W[lm]LB[ij:B][ik:A]C[black now play something like A or B]
+;B[ro]LB[hj:A][ks:D][lr:B][ls:C]C[reviewer's comment - This move is not so big - about 9 points in double gote.  I would prefer a move around, or the ko starting with Bb, Wc, Bd.
+
+After this the game is in yose.  It is very close and there are no major blunders after this point.]
+;W[hf]C[No more comments from now]
+;B[sn];W[sm];B[so];W[rm];B[if];W[gg];B[hh];W[ef];B[hc];W[hb]
+;B[de];W[ee];B[on];W[om];B[og];W[oh];B[mi];W[hn];B[ho];W[li]
+;B[he];W[gf];B[mi];W[kj];B[li];W[nj];B[ij];W[jj];B[ji];W[sf]
+;B[sd];W[fi];B[gh];W[fh];B[dh];W[ik];B[hj];W[hk];B[em];W[fm]
+;B[eg];W[df];B[eh];W[dn];B[cn];W[im];B[jn];W[jl];B[gd];W[fd]
+;B[gj];W[ls];B[gk];W[gl];B[fg];W[fj];B[ff];W[fe];B[km];W[ns]
+;B[os];W[gi];B[hi];W[gc];B[hd];W[kl];B[nn];W[mn];B[di];W[ei]
+;B[na];W[la];B[gn];W[kn];B[lb];W[bp];B[gm];W[ab];B[ad];W[ka]
+;B[js];W[eo];B[cl];W[tt];B[tt]
+TB[af][ag][ah][ai][aj][ak][al][be][bf][bg][bh][bi][bj][bk][bl]
+  [ch][cm][hp][id][ig][ih][ii][iq][ir][jd][je][jf][jg][jh][kg]
+  [ld][le][lf][lg][me][nd][ne][oa][ob][od][oe][or][pa][pb][pc]
+  [pd][pr][ps][qa][qb][qc][qq][qr][qs][ra][rb][rc][rp][rr][rs]
+  [sa][sb][sc][sp][sq][sr][ss]
+TW[aa][aq][ar][as][ba][br][bs][ca][cr][cs][da][db][dc][dq][dr]
+  [ds][ea][eb][ec][ed][ej][ek][eq][fa][fb][fl][fq][ga][ha][hl]
+  [ia][il][ja][jk][ll][ln][mk][ml][mm][nk][nl][oi][oj][ok][ol]
+  [ph][pi][pj][pk][pl][pm][qh][qi][qk][ql][qm][rh][ri][rj][rk]
+  [rl][sg][sh][si][sj][sk][sl]
+)
+(
+;B[jr]BL[1412]
+;W[hq];B[iq];W[hs]
+)
+)
+(
+;B[kk]C[better?]BL[1412]
+)
+(
+;B[iq]C[better shape?]BL[1412]
+)
+)
+(
+;B[nm]BL[1412]
+;W[qq]WL[1412]
+(
+;B[rq]BL[1412]
+;W[qr]WL[1412]
+(
+;B[rr]BL[1412]
+;W[rp]WL[1412]
+;B[ro]BL[1412]
+;W[sp]WL[1412]
+;B[so]BL[1412]
+;W[sn]WL[1412]
+)
+(
+;B[rp]BL[1412]
+;W[rr]WL[1412]
+;B[sr]BL[1412]
+;W[ro]WL[1412]
+(
+;B[sq]BL[1412]
+;W[so]WL[1412]
+;B[rs]BL[1412]
+;W[sp]WL[1412]
+)
+(
+;B[so]BL[1412]
+;W[sp]WL[1412]
+;B[sq]BL[1412]
+;W[sn]WL[1412]
+;B[sp]BL[1412]
+;W[ss]WL[1412]
+)
+)
+)
+(
+;B[qr]BL[1412]
+;W[rq]WL[1412]
+(
+;B[rr]BL[1412]
+;W[rp]WL[1412]
+)
+(
+;B[rp]BL[1412]
+;W[sp]WL[1412]
+)
+)
+)
+)
+(
+;W[pp]WL[1412]
+;B[qq];W[np];B[op];W[nn];B[on];W[om];B[oq];W[rn]
+)
+)
+(
+;B[np]BL[1412]
+)
+)
+(
+;B[mj]BL[1412]
+;W[lh];B[kk];W[kh];B[mg];W[li];B[lj];W[ji];B[kj];W[ih];B[oj]C[This is not easy, but B has to try something.]
+)
+(
+;B[lj]BL[1412]
+;W[lh];B[mg];W[kh];B[mh];W[mi];B[li];W[jh];B[ni];W[mj];B[mk]
+;W[nj];B[nk];W[oj];B[mm];W[no];B[kl]
+)
+)
+(
+;W[og]WL[1412]
+;B[nf];W[mh];B[mf];W[jd];B[id];W[jb];B[ib];W[kg]
+)
+)
+(
+;B[em]BL[1412]
+;W[fl];B[fm];W[gl];B[gm];W[hl];B[im]
+)
+)
+(
+;B[oe]BL[1412]
+;W[od];B[pd];W[nc];B[ob];W[ne];B[of];W[nf];B[pg];W[qh];B[ng]
+;W[mg];B[mh];W[lg];B[lh];W[kg];B[le]
+)
+)
+(
+;B[eo];W[fo];B[fn];W[go];B[gn];W[hn];B[hm];W[in];B[gl]TR[nq]C[This is better for black than for white because marked stone restricts whites potential.]
+)
+)
+(
+;B[cn]BL[1412]
+(
+;W[cp]
+)
+(
+;W[kc];B[hb];W[ke];B[ec];W[ed];B[fb];W[fa];B[ea]C[This ko is too big for white to risk.  It is a easy ko for black if he starts it at the right time.  This means than White's invasion was too early.]
+)
+)
+(
+;B[cq]BL[1412]
+;W[cp];B[dq];W[eq];B[er];W[fr];B[ep];W[fq];B[bp];W[bo];B[bq]
+;W[cn]
+;B[ds]C[it looks far too early for 3-3 invasion for me]
+)
+)
+(
+;B[ec]C[Not my variation]BL[1412]
+;W[ed];B[fb];W[gc];B[gb];W[hc];B[hb];W[id];B[jd];W[jc];B[ib]
+;W[ie]
+;B[kd]C[black is better now?
+white should play something to strenghen his group so black probably end in sente...]
+;W[ef]
+)
+)
+(
+;W[bc];B[qh]
+)
+(
+;W[qf]C[variation]WL[1412]
+;B[aa]BL[1412]
+;W[rc]WL[1412]
+(
+;B[rd]BL[1412]
+;W[qc]WL[1412]
+;B[pc]BL[1412]
+;W[pb]WL[1412]
+;B[ob]BL[1412]
+;W[qa]WL[1412]
+;B[sc]BL[1412]
+;W[sb]WL[1412]
+;B[sd]BL[1412]
+;W[rb]WL[1412]
+)
+(
+;B[qc]BL[1412]
+;W[rd]WL[1412]
+;B[re]BL[1412]
+;W[qe]C[white is connected]WL[1412]
+)
+)
+)

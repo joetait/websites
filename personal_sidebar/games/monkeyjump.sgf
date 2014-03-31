@@ -1,0 +1,144 @@
+(;GM[1]FF[4]
+CA[UTF-8]
+AP[Quarry:0.2.0]
+SZ[19]
+ST[1]
+HA[0]
+KM[0.0]
+PB[Black]
+PW[White]
+AB[cd:dd][be][bh:eh][nh:rh][go:gr]
+AW[ec:ed][de:ee][ci:di][ni:qi][nj][nl][om][cj:cn][ao:bo][bp:fp]
+[pn:pp][qp][fq]
+C[Today I will be looking at the monkey jump. This is a very large end \
+game move. Often the first move or two will be made, and then it will \
+be left till later in the game to fight over the last couple of points.
+
+I have set up a number of situations in which this could occur. These \
+are not comprehensive, but they will be similar to most examples \
+(probably). However, the monkey jump is very flexible and subtle, so it\
+ will depend a lot on context.]
+(;B[ak]C[This is the standard monkey jump. It is connect to the marked \
+stone, and can be connected in more than one way, according to sente \
+and points
+
+Note that is variation relies on white being low - compare to the right\
+ hand side of the board]
+TR[bh];W[bk]C[This is the correct way for white to block]
+(;B[aj]C[Black can connect more solidly like this, but does potentially\
+ give up a point or two]
+;W[al]C[White obviously has to block, since she cannot disconnect]
+;B[bi]C[black has to stop white atari-ing at A11, and hence plays this.\
+ Note that this gote]
+)
+(;B[ai]C[Black can also connect this way];W[al]C[white ataris]
+(;B[aj]C[black connects (though he could tenuki, according to what \
+other moves are left)]
+)
+(;B[pd];W[aj];B[bi]))
+(;B[al]C[if black tries to extend he will be disconnect by white]
+;W[aj]C[white simply blocks and hte tigers mouth means this is secure])
+)
+(;B[aj])
+(;B[ca];W[cb];B[da])
+(;B[ss]
+(;W[bj])
+(;W[bi];B[ai];W[aj]
+(;B[ah];W[rs])
+(;B[rs];W[ah];B[ag];W[ai];B[bg]))
+(;W[eq];B[ds]
+(;W[dq])
+(;W[dr]
+(;B[es];W[cs]
+(;B[fr];W[cr])
+(;B[cr];W[fs];B[bs];W[er];B[cs];W[fr];B[bq];W[ar]))
+(;B[cs];W[es]))))
+(;B[sk]C[The monkey jump is more potent when white does not have low \
+stones to stop it (see the left hand side and bottom left corner)]
+(;W[rk]C[This no longer works];B[sl]C[black just extends]
+;W[sj]C[if white tries to disconnect ...];B[rj]C[black just ataris]
+(;W[ri]C[white blocks];B[si]C[and black takes, and the situation for \
+white is very bad]
+;W[qj];B[sj];W[rl];B[sm])
+(;W[si]C[if white extends];B[ri]C[black ataris and the stones are dead]
+))
+(;W[rl]C[White should block here]
+(;B[sl]C[black can now extend here];W[sm]C[and white can now block]
+(;B[rm]C[if black ataris];W[sj]C[white counter ataris. Now black can \
+take or extend]
+(;B[sn]C[if he takes...];W[rj]C[white extends, cutting black off with \
+no eyes currently. Assuming white is strong she should be able to kill \
+black with relative ease.]
+)
+(;B[rk]C[if black extends then white ataris and cuts him off at the \
+same time]
+;W[rj];B[ql]C[black takes, but still doesn't have a true eye]
+;W[rn];B[sn];W[ro];B[so];W[sp];B[pk];W[qj];B[pm];W[qk]C[black is dead \
+in this situation, but it could depend on how strong white is in the \
+area]
+))
+(;B[ri]C[black can also connect here, but things can get a lot more \
+messy this way]
+)
+(;B[rj]C[ideally, black will connect like this];W[rk]C[white ataris]
+;B[sj]C[forcing black to connect];W[ri]C[white threatens to cut black \
+off]
+;B[si]C[black connects];W[qj]C[white forces];B[sh];W[rm]C[both sides \
+connect]
+))
+(;B[ri];W[sl])
+(;B[sm])))
+(;B[ds]C[If black monkey jumps here then whether or not white has a \
+stone at the marked point is very important - see variations]
+TR[eq]
+(;W[dr]C[without the marked point this is wrong];B[cs]C[black extends]
+;W[es]C[and if whtie tries to cut him off];B[er]C[her cutting stone \
+will be killed]
+;W[fr];B[fs];W[eq];B[es]C[and at this point white cannot contain black]
+)
+(;W[cr]C[white blocks immediately];B[cs]C[black extends]
+;W[bs]C[then white blocks. If black ataris he will not be able to \
+connect after white ataris at E1]
+;B[es]C[so black connects. Note that is more solid than E2, since white\
+ doesn't get so many forcing moves]
+;W[br]C[white connects, since she now has not chance of disconnecting. \
+This is now relatively settled.]
+)
+(;W[er]C[white can block here, threating to cut the stone off \
+immediately]
+;B[es]C[black connects];W[cr]C[and then white blocks. White can start \
+with this move, see variation]
+;B[fr]C[black secures the connection and threatens and atari, forcing \
+white to connect]
+;W[dr];B[cs]C[black is then free to extend];W[bs]C[white ataris and \
+blocks]
+;B[fs]C[black connects];W[br]C[and white connects]))
+(;W[eq]C[if white does have a stone here];B[ds]C[and black plays this]
+;W[dr]C[now white can play here]
+(;B[cs]C[if black tries to play as in the variation, white can disconnet]
+;W[es]C[this move now forms a tigers mouth, and black cannot take the \
+cutting stone]
+)
+(;B[es]C[the correct response from black is play back here, connecting.\
+ See variation]
+;W[cs]C[white then blocks, as in the other variations];B[fr]
+C[black connects];W[cr]C[and white connects]))
+(;W[da]C[In this corner, the small monkey jump is advisable]
+(;B[ss]C[if black tenukis, white can take advantage of the more solid \
+connection she has]
+;W[bb])
+(;B[cb]C[black will likely block here, but this sente for white (i.e. \
+white can now tenuki)]
+;W[ca]C[if white extends then she will get as many points as if she had\
+ played the normal monkey jump]
+;B[ba]C[black can now block - see variation if white ataris]
+(;W[bb];B[ea];W[aa];B[db];W[ba];B[bc]C[White dies])
+(;W[eb];B[db]C[black ataris];W[ea]C[white connects];B[bb]
+C[black connects])))
+(;W[ca]C[If white plays here then black will naturally block]
+;B[cb]C[Obvoously if white now extends black disconnects with a tigers \
+mouth]
+;W[ea]C[white connects];B[ba]C[black threatens];W[da]C[white connects. \
+At this point black may wish to atari, since the corner is small]
+;B[bb])
+)
