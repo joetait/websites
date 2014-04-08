@@ -1,0 +1,70 @@
+(;GM[1]FF[4]AP[qGo:2.0.0]ST[1]
+SZ[19]HA[0]KM[5.5]PW[White]PB[Black]
+C[I recently purchased Yoshio Ishida's Basic Dictionary of Joseki 1. I will be (slowly) documenting how I work through this.
+]
+;B[qd]C[The entire book covers various responses to this traditional initial move. 
+
+Of course, in the course of a normal game the corners would be played before white would even consider responding. For the sake of this demo we will have white approach immediately.]
+;W[oc]C[This is probably the most popular and felxible approach]
+;B[pe]LB[jc:D][kc:C][lc:B][md:A][nd:1]C[This is the black response we will be considering currently.
+
+This is aiming to attack the white stone at 1.
+
+HOwever, it doesn't directly attack white, and white has the option of playing a,b,c or d in response. In fact, can just ignore and play elsewhere.]
+(
+;W[md]LB[kc:A]C[After this, black needs to solidify on the right hand side. He can attack at A first too]
+(
+;B[qj]C[This is a good size extension, after which white will need to shore up on the top]
+;W[ic]C[Now that both side are solid, black needs to protect the corner, which is a large move, worth about 20 points if white can play it first]
+;B[pc]LB[ob:A]C[This is the obvious block, which white needs to respond to.
+
+If white ignores black can play at A]
+(
+;W[od]
+;B[pb]C[This completes the sequence]
+)
+(
+;W[ss];B[ob]
+(
+;W[nc];B[nb];W[mb]
+(
+;B[od]
+)
+(
+;B[ne]
+)
+)
+(
+;W[nb];B[nc];W[od];B[mb];W[nd];B[na]
+)
+)
+)
+(
+;B[kc]C[white now needs to escape]
+;W[hd]C[white loosely pincers so that black can't easily get a base]
+;B[ke]C[black jumps, which forces white to do the same]
+;W[mf]
+)
+)
+(
+;W[lc]LB[qj:B][ss:A]C[White can make a two space extension, which is certainly solid.
+
+Black should now protet the corner first. See A for what happens if he tenukis, and afterwards check out B]
+(
+;B[pc]C[as withe knights move black ust secure the corner, but since white is 1) lower 2) more secure, this should be done before moving along the right]
+;W[od]C[White extends, as with the knights move, in order to stop black invading.]
+;B[pg]C[Black finishes the sequence by extending]
+)
+(
+;B[ss];W[qb];B[qi]TR[qi]C[White's stones are niecely balanced, and it doesn't appear that black has any advantage in the corner, despite playing there first.
+
+Despite this, if black plays at the marked stone straight away, going for the corner is not best. See B in the previous variation]
+)
+(
+;B[qj]
+;W[ne]C[white plays here to stop black playing on top later, since she is low]
+;B[pc]C[blackthen protects the corner]
+;W[ob]TR[ne]C[White extends, but due to the marked stone in a different direction]
+)
+)
+)
