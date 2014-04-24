@@ -1,0 +1,117 @@
+(;GM[1]FF[4]AP[qGo:2.0.0]ST[1]
+SZ[19]HA[0]KM[5.5]PW[White]PB[Black]
+C[As before, the first three moves are given]
+;B[qd];W[oc];B[pe]LB[jc:D][kc:C][lc:B][md:A]C[Last time we considered responses at A and B.
+
+This time we will be considering C and D, which are more involved.]
+(
+;W[kc]LB[mc:A][nd:2][od:1]C[With an extra stone at 1 or 2 white has an ideal set up, so black wants to avoid causing white to play at these points.
+
+In particular, black should invade at A. Note that being evenly between white's stones, this really is the only place to invade.]
+;B[mc]LB[mb:B][oe:A]C[White has two responses to this.
+
+If white plays at A then she is trying to capture the invading stone, and both sides should expec to make some territory.
+
+On the other hand, B gives black more options but isn't forcing, and possibly a bit safer.]
+(
+;W[oe]C[If white attacks...]
+;B[of]C[black defends, stopping white from enclosing the corner]
+;W[ne]C[white must extend]
+;B[pg]C[and black must protect his cutting point]
+;W[le]C[white now captures the invading stone. If black got to play here first it would be very painful for white.
+
+However, it shoud be noted that if white can enclose the corner or cut first it is worse for black.]
+;B[pc]C[black protects the corner]
+;W[ob]C[and white finishes the joseki]
+)
+(
+;W[mb]LB[lb:B][qj:A]C[If white plays underneath black can casually play at A or attack immediately at B.]
+(
+;B[qj]LB[md:A]C[This takes territory, and threatens to use the marked stone to expand this significantly. White may wish to play at A to stop this before it starts.]
+)
+(
+;B[lb]C[If black plays here a joseki follows, in which black gets a sizable territory in the corner, and in exchange white get significant influence.
+
+The joseki follows]
+;W[lc]C[white obviously cuts.]
+;B[nb]C[black forces with the atari.]
+;W[md]C[white counter ataris]
+;B[nc]C[black connects]
+;W[nd]
+(
+;B[od]TR[lb][mc][nb][nc]LB[kb:A]C[black must cut, else the marked stones will be cut off and die.
+
+The only other move that may save them is A, see variation]
+;W[ob]C[white forces]
+;B[ma]C[black takes]
+;W[oa]C[white forces again]
+;B[na]C[black must connect]
+;W[kb]C[due to the previous two white moves this is now forcing, and white has blocked black in on this side]
+;B[pc]
+;W[oe]C[white now gets a forcing atari]
+;B[pd]C[black must connect]
+;W[of]LB[ka:B][la:C][pf:A]C[white extend. Black has made territory in the corner, but white has made a large wall, and with another move at A could entirely enclose black. White also gets ko threats at B and C]
+)
+(
+;B[kb];W[ob];B[ma];W[oe]LB[jb:B][pf:A]C[Now black can be attacked from both A and B]
+)
+)
+)
+)
+(
+;W[jc]LB[lc:B][nd:A]C[This is useful if white already has stones in the upper left corner. However, the extra space means that white cannot reliably defend an invasion, and hence black may be able to rather choose the direction of play.
+
+The two main choices are A and B]
+(
+;B[nd]C[This will emphasise the middle of the board for black]
+;W[nc]LB[ld:A][md:B]C[white can only really block here.
+
+White should jump to A here, rather than extend to B. The reason should be clear once you see both plays]
+(
+;B[ld]
+(
+;W[mc]LB[od:A]C[white extends, so she can connect underneath if black tries to cut.
+
+See vriation, if white tries to cut at A]
+;B[ne]C[black defends]
+;W[lc]C[white connects]
+;B[qj]C[The marked stone can now be sacrificed, since it is not connected to anything. It has forced white to respond and play low, which was the aim]
+)
+(
+;W[od]
+;B[oe]C[black blocks]
+;W[md]C[atari]
+;B[me]C[block]
+;W[ne]C[take]
+;B[nf]C[after this black ends with a thick wall, whilst white has third line territory]
+)
+)
+(
+;B[md]C[white extends]
+(
+;W[lc]
+;B[ld]C[black blocks]
+)
+(
+;W[mc];B[ld];W[lc]LB[kd:A]C[both extend, and now the play of A from white is lot more valuable, because blacks three stones are heavy]
+)
+)
+)
+(
+;B[lc]C[This move aims to make territory on the right side eventually]
+;W[oe]C[white attaches, cutting the stone off]
+;B[of]C[black blocks]
+;W[ne]LB[le:B][pc:A]C[white extends]
+(
+;B[pc]C[black takes the corner and threatens. This also helps the cutting point, see variation at B last move]
+;W[pb]LB[le:A]C[white hanes. Note that if white just extends down here then black can jump to A, which is very bad, so this really must be a hane]
+;B[qb]C[black blocks]
+;W[le]LB[kd:A]C[White finishes the joseki. There is still aji at A though]
+)
+(
+;B[le]C[if black plays here then white can cut]
+;W[pf];B[pg];W[qf];B[qg];W[re]TR[pe][qd]LB[rd:A][rg:B]C[Now white can escape at either A or B. B gets out and A takes the corner, killing the marked stones]
+)
+)
+)
+)
