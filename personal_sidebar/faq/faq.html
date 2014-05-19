@@ -56,6 +56,18 @@
               <p>I wanted to scroll the navigation bar to left of this page whilst having it fixed as an html element. To do this I used <a href="http://stackoverflow.com/a/4176437">this advice</a> from stackoverflow.
               </p>
             </li>
+            <li>
+                <p>I use (possibly have used, by the time you read this) the colour scheme <a href="http://ethanschoonover.com/solarized">solarized</a>. This colour scheme is available on many platforms, but I particularly use it on <a href="https://github.com/altercation/vim-colors-solarized">Vim</a>. After following the link install instructions, it wasn't quite working properly, giving patchy elements like this:</p>
+                <img src="solarizedlatex.png" />
+                <p>To solve this issue you can add the following lines to your .vimrc file (if you don't have one then create it):</p>
+                <PRE><code>
+                    if $COLORTERM == 'gnome-terminal'
+                        set t_Co=256
+                    endif
+                </code></PRE>
+                <p>Moreover, if you like the colour scheme then there are options for <a href="https://github.com/claytron/pentadactyl-solarized">pentadactyl</a> and <a  href="https://addons.mozilla.org/en-us/firefox/addon/solarized-fox/">theme</a> for Firefox.
+                </p>
+            </li>
           </ul>
         </div>
       </div>
