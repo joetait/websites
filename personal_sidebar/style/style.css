@@ -1,6 +1,12 @@
 body{
 	margin: 20px 10px;
+    background-color: #fdf6e3;
+    color:  #657b83;
 }
+
+    a:link {color:#b58900; background-color:#fdf6e3; text-decoration:none; }
+    a:visited {color:#b58900; background-color:#fdf6e3; }
+    a:hover {color:#cb4b16; background-color:#eee8d5; }
 
 
 /*container div, to set everything else relative to*/
@@ -80,8 +86,9 @@ body{
 	left: 160px;
 	width: 2px;
 	min-height: 85%;
-	border-left: 1px solid black;
+	border-left: 8px solid black;
 	margin: 20px 0px 0px 10px;
+    border-color: #eee8d5;
 }
 
 .clear{
